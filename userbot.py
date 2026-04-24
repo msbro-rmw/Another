@@ -10,8 +10,8 @@ logging.basicConfig(
 logger = logging.getLogger(__name__)
 
 # ─── Config ────────────────────────────────────────────────────────────────────
-API_ID   = 0          # <-- my.telegram.org se bharo
-API_HASH = ""         # <-- my.telegram.org se bharo
+API_ID   = 38498066          # <-- my.telegram.org se bharo
+API_HASH = "c9696114751feacdeb1b4487f5839a1a"         # <-- my.telegram.org se bharo
 
 # ─── Userbot Client ────────────────────────────────────────────────────────────
 import os
